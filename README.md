@@ -17,4 +17,4 @@
 - Testes cobrem criação e listagem de usuários
 
 ## Autor
-Seu Nome - mauricioantonionetinho@gmail.com
+Maurício - mauricioantonionetinho@gmail.com
